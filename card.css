@@ -1,0 +1,94 @@
+
+
+.back-side{
+    display:flex;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 600px;
+    background-color: black;
+    color: azure;
+
+}
+.company{
+    margin-top: 110px;
+}
+.logo{
+    margin-left: 30px;
+}
+.front-side{
+    background-color: black;
+    color: azure;
+    width: 700px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.business-card{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.companyname-slogan{
+    display: flex;
+}
+
+
+.firstrow{
+    display: grid;
+    grid-template-columns: auto auto;
+    
+}
+
+
+#img1{
+    width:100px;
+    height: 150px;
+    margin-left: 30px;
+    
+}
+
+#name-slogan{
+    margin-top: 43px;
+}
+
+#nameposition{
+margin-top: 55px;
+padding-right: 60px;
+margin-left: 5px;
+}
+
+.secondrow{
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: left;
+    margin-bottom: 20px;
+}
+
+.location{
+    display:flex
+}
+.phone{
+    display: flex;
+}
+
+.email{
+    display: flex;
+}
+
+.img2{
+    width:100px;
+    height: 100px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+i{
+    margin-top: 20px;
+    padding-right: 20px;
+}
+.details{
+    margin-left: 270px;
+}
+
+.name-position{
+    padding-left:50px ;
+}
